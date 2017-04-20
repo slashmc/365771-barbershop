@@ -1,0 +1,37 @@
+body {
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+  font-weight: normal;
+  font-family: PT Sans Narrow, sans-serif;
+}
+
+.breadcrambs h1 {
+  text-transform: uppercase;
+  font-size: 30px;
+  line-height: 42px;
+}
+
+.filters-form h2,
+.set-includes h2,
+.inner-content h3 {
+  text-transform: uppercase;
+  font-size: 24px;
+  line-height: 30px;
+}
+
+.inner-content h2 {
+  text-transform: uppercase;
+  font-size: 48px;
+  line-height: 48px;
+}
+
+.catalog h3 {
+  color: #000000;
+  line-height: 18px;
+}
+
+h3 .item-name,
+.service-information h3 {
+  text-transform: uppercase;
+}
