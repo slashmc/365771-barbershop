@@ -12,7 +12,7 @@ body {
   line-height: 42px;
 }
 
-.filters-form h2,
+.filters-form h3,
 .set-includes h2,
 .inner-content h3 {
   text-transform: uppercase;
@@ -26,12 +26,13 @@ body {
   line-height: 48px;
 }
 
-.catalog h3 {
-  color: #000000;
+.catalog h2 {
+  font-size: 14px;
   line-height: 18px;
+  color: #000000;
 }
 
-h3 .item-name,
+h2 .item-name,
 .service-information h3 {
   text-transform: uppercase;
 }
